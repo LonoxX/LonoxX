@@ -8,9 +8,6 @@
 <a href="https://github.com/PNPanda-Network/Coming-Soon-Template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Coming-Soon-Template" />
 </a>
-<a href="https://github.com/PNPanda-Network/Discord-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Discord-Bot" />
-</a>
 <br /><br />
 
 ## 🐼 Panda-Network Team
@@ -35,4 +32,4 @@
 
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.1.1 <br>
+> V 0.1.2 <br>
