@@ -23,8 +23,8 @@
         <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Projektleitung
     </td>
     <td align="center">
-      <a href="https://github.com/SimulatorMB"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="SimulatorMB"/><br />
-        <sub><b><a href="https://github.com/SimulatorMB">SimulatorMB</b></a></sub><br />Developer
+      <a href="https://github.com/dev-mb"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="Dev-MB"/><br />
+        <sub><b><a href="https://github.com/dev-mb">Dev-MB</b></a></sub><br />Developer
     </td>
   </tr>
 </table>
