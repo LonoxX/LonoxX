@@ -28,7 +28,7 @@
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://cdn.panda-network.de/img/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://cdn.panda-network.de/img/css.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://cdn.panda-network.de/img/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://cdn.panda-network.de/img/github.svg" />
+<a href="https://github.com/LonoxX/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn.panda-network.de/img/github.svg"/> </a>
 <br />
 <br />
 
