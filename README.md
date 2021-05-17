@@ -23,20 +23,26 @@
 </a>
 <br /><br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://cdn.panda-network.de/img/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://cdn.panda-network.de/img/css.png" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://cdn.panda-network.de/img/git-scm-icon.svg"/> </a>
-<a href="https://github.com/LonoxX/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn.panda-network.de/img/github.svg"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="36px" src="https://cdn.panda-network.de/img/logos/HTML5.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="36px" src="https://cdn.panda-network.de/img/logos/CSS3.png" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="36px" src="https://cdn.panda-network.de/img/logos/JS.png" /></a>
+<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="36px" src="https://cdn.panda-network.de/img/logos/PHP.png" /></a>
+<a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"><img align="left" alt="C#" width="36px" src="https://cdn.panda-network.de/img/logos/CSHARP.png" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px" src="https://cdn.panda-network.de/img/logos/git.png"/></a>
+<a href="https://github.com/LonoxX/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.panda-network.de/img/logos/github.png"/></a>
 <br />
 <br />
 
-### Softwares:
+### 💾 Softwares:
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.panda-network.de/img/visual-studio-code.png"/> </a>
-<a href="https://visualstudio.microsoft.com/de/" target="_blank"> <img align="left" alt="visualstudio" width="26px" src="https://cdn.panda-network.de/img/Visual_Studio_2013_Logo.svg"/> </a>
-<a href="https://www.photoshop.com/de" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://cdn.panda-network.de/img/photoshop.png?raw=true"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.panda-network.de/img/logos/vscode.png"/></a>
+<a href="https://visualstudio.microsoft.com/de/" target="_blank"> <img align="left" alt="visualstudio" width="36px" src="https://cdn.panda-network.de/img/logos/vs.png"/></a>
+<a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord" width="36px" src="https://cdn.panda-network.de/img/logos/discord.png"/></a>
+<a href="https://www.teamspeak.com/" target="_blank"> <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.panda-network.de/img/logos/teamspeak.png"/></a>
+<a href="https://www.spotify.com/" target="_blank"> <img align="left" alt="Spotify" width="36px" src="https://cdn.panda-network.de/img/logos/spotify.png"/></a>
+<br />
 <br />
 <br />
 
@@ -66,4 +72,4 @@
 
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.1.3 <br>
+> V 0.1.4 <br>
