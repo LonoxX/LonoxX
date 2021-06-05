@@ -14,12 +14,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Coming-Soon-Template" />
 </a>
 
-<a href="https://github.com/LonoxX/MOTD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Customize-MOTD" />
-</a>
-
 <a href="https://github.com/PNPanda-Network/Shoutcast-Proxy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Shoutcast-Proxy" />
+</a>
+
+<a href="https://github.com/LonoxX/MOTD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Customize-MOTD" />
 </a>
 <br /><br />
 
@@ -56,20 +56,28 @@
   <tr>
     <td align="center">
       <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX"/></a><br />
-        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Project Leader
+        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Project Leader<br /><a href="https://panda-network.de/">Panda-Network</a>
     </td>
     <td align="center">
       <a href="https://github.com/vloggergil"><img src="https://avatars3.githubusercontent.com/u/23207852?v=4" width="100px;" alt="vloggergil"/><br />
-        <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Project Leader
+        <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Project Leader<br /><a href="https://panda-network.de/">Panda-Network</a>
     </td>
 		<br>
     <td align="center">
       <a href="https://github.com/dev-mb"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="Dev-MB"/><br />
-        <sub><b><a href="https://github.com/dev-mb">Dev-MB</b></a></sub><br />Developer
+        <sub><b><a href="https://github.com/dev-mb">Dev-MB</b></a></sub><br />Developer<br /><a href="https://dev-mb.dev/">Dev-MB</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="Dev-MB"/><br />
+        <sub><b><a href="https://github.com/matthewrabiega">Matthew</b></a></sub><br />Supporter<br /><a href="https://matthewrabiega.com">MatthewRabiega.com</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YourLifeRPG"><img src="https://avatars.githubusercontent.com/u/76496942?v=4" width="100px;" alt="Dev-MB"/><br />
+        <sub><b><a href="https://github.com/YourLifeRPG">CHX31</b></a></sub><br />Supporter<br /><a href="https://panda-network.de/">Panda-Network</a>
     </td>
   </tr>
 </table>
 
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.1.4 <br>
+> V 0.1.5 <br>
