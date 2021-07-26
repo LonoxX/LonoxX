@@ -147,8 +147,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/bigcityv"><img src="https://avatars3.githubusercontent.com/u/65515415?v=4" width="100px;" alt="bigcityv"/><br />
-        <sub><b><a href="https://github.com/bigcityv">Panda-Network</b></a></sub>
+      <a href="https://github.com/PNPanda-Network"><img src="https://avatars3.githubusercontent.com/u/65515415?v=4" width="100px;" alt="bigcityv"/><br />
+        <sub><b><a href="https://github.com/PNPanda-Network">Panda-Network</b></a></sub>
         <br/>Github Team
     </td>
     <td align="center">
