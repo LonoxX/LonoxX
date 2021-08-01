@@ -135,10 +135,6 @@
       <a href="https://github.com/vloggergil"><img src="https://avatars3.githubusercontent.com/u/23207852?v=4" width="100px;" alt="vloggergil"/><br />
         <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Project Leader<br /><a href="https://bigcityv.de/">Big City:V</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/DomDiiDom"><img src="https://avatars.githubusercontent.com/u/76659946?v=4" width="100px;" alt="Dev-MB"/><br />
-        <sub><b><a href="https://github.com/DomDiiDom">DomDiiDom</b></a></sub><br />Developer<br /><a href="https://bigcityv.de/">Big City:V</a>
-    </td>
   </tr>
 </table>
 <br>
