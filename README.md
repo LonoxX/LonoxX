@@ -8,9 +8,9 @@
 <details open>
 <summary>Github Stats:</b></summary>
 
-[![LonoxX's github stats](https://github-readme-stats.vercel.app/api?username=LonoxX&layout=dark&show_icons=true)](https://github.com/LonoxX)
+[![LonoxX's github stats](https://github-readme-stats.vercel.app/api?username=LonoxX&theme=dark&show_icons=true)](https://github.com/LonoxX)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonoxX&layout=compact)](https://github.com/LonoxX)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonoxX&layout=compact&theme=dark&show_icons=true)](https://github.com/LonoxX)
 
 </details>
 
@@ -18,27 +18,28 @@
 <summary><b>💡 Public Projects:</b>: </summary>
 
 <a href="https://github.com/PNPanda-Network/Coming-Soon-Template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Coming-Soon-Template" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Coming-Soon-Template&theme=dark&show_icons=true" />
+
 </a>
 
 <a href="https://github.com/PNPanda-Network/Shoutcast-Proxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Shoutcast-Proxy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Shoutcast-Proxy&theme=dark&show_icons=true" />
 </a>
 <br><br>
 <a href="https://github.com/LonoxX/MOTD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Customize-MOTD" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Customize-MOTD&theme=dark&show_icons=true" />
 </a>
 
 <a href="https://github.com/LonoxX/Database-Backup-Script">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Database-Backup-Script" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Database-Backup-Script&theme=dark&show_icons=true" />
 </a>
 <br><br>
 <a href="https://github.com/LonoxX/Ordnerliebe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Ordnerliebe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Ordnerliebe&theme=dark&show_icons=true" />
 </a>
 
 <a href="https://github.com/LonoxX/htaccess-test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=htaccess-test" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=htaccess-test&theme=dark&show_icons=true" />
 </a>
 
 </details>
@@ -160,4 +161,4 @@
 
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.1.6 <br>
+> V 0.1.7 <br>
