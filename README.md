@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](https://komarev.com/ghpvc/?username=LonoxX&color=0d1627)](https://pnnet.dev/github)
+![](https://hit.yhype.me/github/profile?user_id=35597628)
+
 💼&nbsp;&nbsp;&nbsp;Project Leader at <a href="https://panda-network.de">Panda-Network</a>
 
 🌐&nbsp;&nbsp;&nbsp;Know more about my Project´s at <a href="https://panda-network.de" target="_blank">panda-network.de</a>
@@ -84,7 +87,7 @@
  <summary>👑<b> My current Projects:</b></summary>
   <ul>
     <li><b>Panda-Network - </b> <a href="https://panda-network.de/">Hompage</a></li> 
-    <li><b>Big City:V</b> <a href="https://bigcityv.de/">Hompage</a> GTA V Roleplay Project:</li>
+    <li><b>Big City:V</b> <a href="https://bigcityv.de/">Hompage</a> GTA V Roleplay Project</li>
  </ul>
 </details>
 <br>
