@@ -135,10 +135,6 @@
       <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX"/></a><br />
         <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Project Leader<br /><a href="https://bigcityv.de/">Big City:V</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/vloggergil"><img src="https://avatars3.githubusercontent.com/u/23207852?v=4" width="100px;" alt="vloggergil"/><br />
-        <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Project Leader<br /><a href="https://bigcityv.de/">Big City:V</a>
-    </td>
   </tr>
 </table>
 <br>
@@ -164,4 +160,4 @@
 
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.1.7 <br>
+> V 0.1.8 <br>
