@@ -9,14 +9,14 @@
 <br>
 
 <details open>
- <summary>📕<b> My projects: </b></summary>
+ <summary>📕<b> My projects:</b></summary>
   <ul>
-    <li><b>Panda-Network - </b> <a href="https://panda-network.de/">Hobby Developer Project</a></li>
+    <li><b>Panda-Network - </b> <a href="https://panda-network.de/">Hobby Developer Project<a></li>
+    <li><b>Imagic Imagehost</b> <a href="https://pnnet.dev/">Coming-soon</a></li><br>
     <li><b>Big City:V</b> <a href="https://bigcityv.de/">GTA V Roleplay Project</a></li>
     <li><b>Royalitaet-Live</b> <a href="https://royalitaet-live.de">Webradio</a></li>
     <li><b>Panda-Player </b> <a href="https://pnnet.dev/player">Amazon Skill </a></li>
-    <li><b>Panda-Player [Source Code]</b> <a href="https://github.com/PNPanda-Network/Webradio-Streaming-Alexa-Skill">Source Code</a></li>
-    <li><b>Imagic Imagehost</b> <a href="https://pnnet.dev/">Coming-soon</a></li>
+
  </ul>
 </details>
 <br>
@@ -59,6 +59,10 @@
 
 <a href="https://github.com/LonoxX/htaccess-test">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=htaccess-test&theme=dark&show_icons=true" />
+</a>
+<br><br>
+<a href="https://github.com/PNPanda-Network/Webradio-Streaming-Alexa-Skill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PNPanda-Network&repo=Webradio-Streaming-Alexa-Skill&theme=dark&show_icons=true" />
 </a>
 
 </details>
