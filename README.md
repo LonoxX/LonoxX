@@ -4,7 +4,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=35597628)
 
 💼Project Leader at <a href="https://panda-network.de">Panda-Network</a>
-Backend Developer 
+
 
 <br>
 
