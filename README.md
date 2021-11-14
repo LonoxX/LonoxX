@@ -3,17 +3,33 @@
 [![](https://komarev.com/ghpvc/?username=LonoxX&color=0d1627)](https://pnnet.dev/github)
 ![](https://hit.yhype.me/github/profile?user_id=35597628)
 
-💼&nbsp;&nbsp;&nbsp;Project Leader at <a href="https://panda-network.de">Panda-Network</a>
+💼Project Leader at <a href="https://panda-network.de">Panda-Network</a>
+Backend Developer 
 
-🌐&nbsp;&nbsp;&nbsp;Know more about my Project´s at <a href="https://panda-network.de" target="_blank">panda-network.de</a>
 <br>
 
 <details open>
-<summary>Github Stats:</b></summary>
+ <summary>📕<b> My projects: </b></summary>
+  <ul>
+    <li><b>Panda-Network - </b> <a href="https://panda-network.de/">Hobby Developer Project</a></li>
+    <li><b>Big City:V</b> <a href="https://bigcityv.de/">GTA V Roleplay Project</a></li>
+    <li><b>Royalitaet-Live</b> <a href="https://royalitaet-live.de">Webradio</a></li>
+    <li><b>Panda-Player </b> <a href="https://pnnet.dev/player">Amazon Skill </a></li>
+    <li><b>Panda-Player [Source Code]</b> <a href="https://github.com/PNPanda-Network/Webradio-Streaming-Alexa-Skill">Source Code</a></li>
+    <li><b>Imagic Imagehost</b> <a href="https://pnnet.dev/">Coming-soon</a></li>
+ </ul>
+</details>
+<br>
+<br>
+<details open>
+<summary>Stats:</b></summary>
 
 [![LonoxX's github stats](https://github-readme-stats.vercel.app/api?username=LonoxX&theme=dark&show_icons=true)](https://github.com/LonoxX)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonoxX&layout=compact&theme=dark&show_icons=true)](https://github.com/LonoxX)
+
+<a href="https://github.com/LonoxX/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LonoxX&layout=compact&theme=dark" />
 
 </details>
 
@@ -83,16 +99,6 @@
 </details>
 <br /><br /><br />
 
-<details open>
- <summary>👑<b> My current Projects:</b></summary>
-  <ul>
-    <li><b>Panda-Network - </b> <a href="https://panda-network.de/">Hompage</a></li> 
-    <li><b>Big City:V</b> <a href="https://bigcityv.de/">Hompage</a> GTA V Roleplay Project</li>
- </ul>
-</details>
-<br>
-<br>
-
 
 <h3 align="center">
 	⬇⬇ Check my Team below ⬇⬇
@@ -127,37 +133,6 @@
 </table>
 <br>
 
-## 🍷 Big City:V Developer Team
-<br>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX"/></a><br />
-        <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Project Leader<br /><a href="https://bigcityv.de/">Big City:V</a>
-    </td>
-  </tr>
-</table>
-<br>
-
-## My Github Team´s
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PNPanda-Network"><img src="https://avatars3.githubusercontent.com/u/65515415?v=4" width="100px;" alt="bigcityv"/><br />
-        <sub><b><a href="https://github.com/PNPanda-Network">Panda-Network</b></a></sub>
-        <br/>Github Team
-    </td>
-    <td align="center">
-      <a href="https://github.com/bigcityv"><img src="https://avatars3.githubusercontent.com/u/87903695?v=4" width="100px;" alt="bigcityv"/><br />
-        <sub><b><a href="https://github.com/bigcityv">Big City:V</b></a></sub>
-        <br/>Github Team
-    </td>
-  </tr>
-</table>
-
-<br/>
-<br/>
-
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.1.8 <br>
+> V 0.2.0 <br>
