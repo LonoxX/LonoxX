@@ -9,19 +9,14 @@
 <br>
 
 <details open>
-  <summary>📕<b> My projects:</b></summary>
+  <summary>📕<b> My Projects:</b></summary>
   <ul>
     <li><b>Panda-Network - </b> <a href="https://panda-network.de/">Hobby Developer Project<a></li>
-    <li><b>Imagic Imagehost</b> <a href="https://pnnet.dev/">Coming-soon</a></li><br>
-    <li><b>Big City:V</b> <a href="https://bigcityv.de/">GTA V Roleplay Project</a></li>
-    <li><b>Royalitaet-Live</b> <a href="https://royalitaet-live.de">Webradio</a></li>
-    <li><b>Panda-Player </b> <a href="https://pnnet.dev/player">Amazon Skill </a></li>
-
+    <li><b>ImagicX - </b> <a href="https://imagicx.de/">ImagicX-Imagehost</a></li>
+    <li><b>Panda-Player - </b> <a href="https://pnnet.dev/player">Amazon Skill </a></li>
   </ul>
 </details>
 <br>
-<br>
-
 <details open>
   <summary><b>Stats:</b></summary>
 
@@ -61,11 +56,6 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Database-Backup-Script&theme=dark&show_icons=true" />
   </a>
   <br><br>
-
-  <a href="https://github.com/LonoxX/Ordnerliebe">
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=Ordnerliebe&theme=dark&show_icons=true" />
-  </a>
 
   <a href="https://github.com/LonoxX/htaccess-test">
     <img align="center"
@@ -181,4 +171,4 @@
 
 > Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf) <br>
 > Made with :heart: <br>
-> V 0.2.0 <br>
+> V 0.2.1 <br>
