@@ -61,7 +61,6 @@
     <img align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=LonoxX&repo=htaccess-test&theme=dark&show_icons=true" />
   </a>
-  <br><br>
 
   <a href="https://github.com/PNPanda-Network/Webradio-Streaming-Alexa-Skill">
     <img align="center"
