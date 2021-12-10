@@ -92,8 +92,6 @@
       src="https://cdn.panda-network.de/img/logos/debian.png" /></a>
   <a href="https://ubuntu.com/" target="_blank"><img align="left" alt="ubuntu" width="36px"
       src="https://cdn.panda-network.de/img/logos/ubuntu.png" /></a>
-  <a href="https://www.microsoft.com/" target="_blank"><img align="left" alt="microsoft" width="36px"
-      src="https://cdn.panda-network.de/img/logos/microsoft.png" /></a>
 </details>
 <br /><br /><br />
 
@@ -109,10 +107,6 @@
     <td align="center">
       <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX" /></a><br />
       <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Project Leader<br /><a href="https://panda-network.de/">Panda-Network</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vloggergil"><img src="https://avatars3.githubusercontent.com/u/23207852?v=4" width="100px;" alt="vloggergil" /><br />
-        <sub><b><a href="https://github.com/vloggergil">Gil</b></a></sub><br />Project Leader<br /><a href="https://panda-network.de/">Panda-Network</a>
     </td>
     <br>
     <td align="center">
@@ -134,5 +128,5 @@
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf) \
 > Made with :heart: <br>
-> V 0.2.2 <br>
+> V 0.2.3 <br>
 
