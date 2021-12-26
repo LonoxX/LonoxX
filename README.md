@@ -59,39 +59,79 @@
 
 <details open>
   <summary>🛠️<b> Languages and Tools:</b> </summary>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="36px" src="https://cdn.panda-network.de/img/logos/HTML5.png" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="36px" src="https://cdn.panda-network.de/img/logos/CSS3.png" /></a>
-  <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="36px" src="https://cdn.panda-network.de/img/logos/JS.png" /></a>
-  <a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="36px" src="https://cdn.panda-network.de/img/logos/PHP.png" /></a>
-  <a href="https://getbootstrap.com" target="_blank"> <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.mbdev.cc/cdn/github/getbootstrap.png" /></a>
-  <a href="https://fontawesome.com" target="_blank"> <img align="left" alt="Fontawesome" width="36px" src="https://cdn.mbdev.cc/cdn/github/fontawesome.png" /></a>
-  <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"><img align="left" alt="C#" width="36px" src="https://cdn.panda-network.de/img/logos/CSHARP.png"></a>
-  <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="36px"  src="https://cdn.panda-network.de/img/logos/git.png" /></a>
-  <a href="https://github.com/LonoxX/" target="_blank"> <img align="left" alt="GitHub" width="36px" src="https://cdn.panda-network.de/img/logos/github.png" /></a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+  <img align="left" alt="HTML5" width="36px" src="https://cdn.panda-network.de/img/logos/HTML5.png" /></a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+  <img align="left" alt="CSS3" width="36px" src="https://cdn.panda-network.de/img/logos/CSS3.png" /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+  <img align="left" alt="JS" width="36px" src="https://cdn.panda-network.de/img/logos/JS.png" /></a>
+
+  <a href="https://www.w3schools.com/php/" target="_blank">
+  <img align="left" alt="PHP" width="36px" src="https://cdn.panda-network.de/img/logos/PHP.png" /></a>
+
+  <a href="https://getbootstrap.com" target="_blank">
+  <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.mbdev.cc/cdn/github/getbootstrap.png" /></a>
+
+  <a href="https://fontawesome.com" target="_blank">
+  <img align="left" alt="Fontawesome" width="36px" src="https://cdn.mbdev.cc/cdn/github/fontawesome.png" /></a>
+  
+  <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank">
+  <img align="left" alt="C#" width="36px" src="https://cdn.panda-network.de/img/logos/CSHARP.png"></a>
+  
+  <a href="https://git-scm.com/" target="_blank">
+  <img align="left" alt="git" width="36px"  src="https://cdn.panda-network.de/img/logos/git.png" /></a>
+  
+  <a href="https://github.com/LonoxX/" target="_blank">
+  <img align="left" alt="GitHub" width="36px" src="https://cdn.panda-network.de/img/logos/github.png" /></a>
+
 </details>
 <br /><br /><br />
 
 <details open>
   <summary>💾<b> Softwares:</b> </summary>
-  <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.panda-network.de/img/logos/vscode.png" /></a>
-  <a href="https://visualstudio.microsoft.com/de/" target="_blank"> <img align="left" alt="visualstudio" width="36px"src="https://cdn.panda-network.de/img/logos/vs.png" /></a>
-  <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord" width="36px" src="https://cdn.panda-network.de/img/logos/discord.png" /></a>
-  <a href="https://www.thunderbird.net" target="_blank"> <img align="left" alt="thunderbird" width="36px" src="https://cdn.panda-network.de/img/logos/thunderbird.png" /></a>
-  <a href="https://www.mozilla.org/" target="_blank"> <img align="left" alt="firefox" width="36px" src="https://cdn.panda-network.de/img/logos/firefox.png" /></a>
-  <a href="https://www.google.com/intl/de_de/chrome/" target="_blank"> <img align="left" alt="chrome" width="36px" src="https://cdn.panda-network.de/img/logos/chrome.png" /></a>
-  <a href="https://www.teamspeak.com/" target="_blank"> <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.panda-network.de/img/logos/teamspeak.png" /></a>
-  <a href="https://www.spotify.com/" target="_blank"> <img align="left" alt="Spotify" width="36px" src="https://cdn.panda-network.de/img/logos/spotify.png" /></a>
-  <a href="https://www.spotify.com/" target="_blank"> <img align="left" alt="PI-Hole" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+  <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.panda-network.de/img/logos/vscode.png"/></a>
+
+  <a href="https://visualstudio.microsoft.com/de/" target="_blank">
+  <img align="left" alt="visualstudio" width="36px"src="https://cdn.panda-network.de/img/logos/vs.png"/></a>
+  
+  <a href="https://discord.com/" target="_blank">
+  <img align="left" alt="Discord" width="36px" src="https://cdn.panda-network.de/img/logos/discord.png"/></a>
+  
+  <a href="https://www.thunderbird.net" target="_blank">
+  <img align="left" alt="thunderbird" width="36px" src="https://cdn.panda-network.de/img/logos/thunderbird.png"/></a>
+  
+  <a href="https://www.mozilla.org/" target="_blank">
+  <img align="left" alt="firefox" width="36px" src="https://cdn.panda-network.de/img/logos/firefox.png"/></a>
+  
+  <a href="https://www.google.com/intl/de_de/chrome/" target="_blank">
+  <img align="left" alt="chrome" width="36px" src="https://cdn.panda-network.de/img/logos/chrome.png"/></a>
+  
+  <a href="https://www.teamspeak.com/" target="_blank"> 
+  <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.panda-network.de/img/logos/teamspeak.png"/></a>
+  
+  <a href="https://www.spotify.com/" target="_blank">
+  <img align="left" alt="Spotify" width="36px" src="https://cdn.panda-network.de/img/logos/spotify.png"/></a>
+  
+  <a href="https://pi-hole.net/" target="_blank">
+  <img align="left" alt="PI-Hole" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png"/></a>
+  
+  <a href="https://www.proxmox.com/de/" target="_blank">
+  <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
+
+  
       
 </details>
 <br /><br /><br />
 
 <details open>
   <summary>🤖<b> My Server Runing with:</b> </summary>
-  <a href="https://www.debian.org/" target="_blank"><img align="left" alt="debian" width="36px"
-      src="https://cdn.panda-network.de/img/logos/debian.png" /></a>
-  <a href="https://ubuntu.com/" target="_blank"><img align="left" alt="ubuntu" width="36px"
-      src="https://cdn.panda-network.de/img/logos/ubuntu.png" /></a>
+  <a href="https://www.debian.org/" target="_blank">
+  <img align="left" alt="debian" width="36px" src="https://cdn.panda-network.de/img/logos/debian.png" /></a>
+  
+  <a href="https://ubuntu.com/" target="_blank">
+  <img align="left" alt="ubuntu" width="36px" src="https://cdn.panda-network.de/img/logos/ubuntu.png" /></a>
 </details>
 <br /><br /><br />
 
@@ -128,5 +168,5 @@
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf) \
 > Made with :heart: <br>
-> V 0.2.3 <br>
+> V 0.2.4 <br>
 
