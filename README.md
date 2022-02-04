@@ -12,7 +12,7 @@
 ## 📕 My Current Projects: 
 - <a href="https://panda-network.de/">Panda-Network<a>
 - <a href="https://imagicx.de/">ImagicX-Imagehost</a>
-
+- <a href="https://bigcityv.de/">Big City:V GTA V Roleplay </a>
 
 <details open>
   <summary><b>My Stats:</b></summary>
@@ -71,10 +71,10 @@
   <img align="left" alt="PHP" width="36px" src="https://cdn.panda-network.de/img/logos/PHP.png" /></a>
 
   <a href="https://getbootstrap.com" target="_blank">
-  <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.mbdev.cc/cdn/github/getbootstrap.png" /></a>
+  <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.panda-network.de/img/logos/getbootstrap.png" /></a>
 
   <a href="https://fontawesome.com" target="_blank">
-  <img align="left" alt="Fontawesome" width="36px" src="https://cdn.mbdev.cc/cdn/github/fontawesome.png" /></a>
+  <img align="left" alt="Fontawesome" width="36px" src="https://cdn.panda-network.de/img/logos/fontawesome.png" /></a>
   
   <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank">
   <img align="left" alt="C#" width="36px" src="https://cdn.panda-network.de/img/logos/CSHARP.png"></a>
@@ -129,9 +129,10 @@
   <summary>🤖<b> My Server Runing with:</b> </summary>
   <a href="https://www.debian.org/" target="_blank">
   <img align="left" alt="debian" width="36px" src="https://cdn.panda-network.de/img/logos/debian.png" /></a>
-  
   <a href="https://ubuntu.com/" target="_blank">
   <img align="left" alt="ubuntu" width="36px" src="https://cdn.panda-network.de/img/logos/ubuntu.png" /></a>
+  <a href="https://www.proxmox.com/de/" target="_blank">
+  <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 </details>
 <br /><br /><br />
 
