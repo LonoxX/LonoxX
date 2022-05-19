@@ -135,7 +135,14 @@
   <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 </details>
 <br /><br /><br />
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
+</details>
 
 <h3 align="center">
   ⬇⬇ Check my Team below ⬇⬇
