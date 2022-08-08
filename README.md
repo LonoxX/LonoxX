@@ -2,14 +2,17 @@
 
 [![](https://komarev.com/ghpvc/?username=LonoxX&color=0d1627)](https://pnnet.dev/github)
 ![](https://hit.yhype.me/github/profile?user_id=35597628)
+
 ## 💬 About me:
+
 - I'm a Backend Web Developer
 - Project Leader at <a href="https://panda-network.de">Panda-Network</a>
 - Age 25
 - Fun fact: My first line of code was not "Hello World!"
-<br>
+  <br>
 
-## 📕 My Current Projects: 
+## 📕 My Current Projects:
+
 - <a href="https://panda-network.de/">Panda-Network<a>
 - <a href="https://imagicx.de/">ImagicX-Imagehost</a>
 - <a href="https://bigcityv.de/">Big City:V GTA V Roleplay </a>
@@ -17,9 +20,9 @@
 <details open>
   <summary><b>My Stats:</b></summary>
 
-  [![LonoxX's github stats](https://github-readme-stats.vercel.app/api?username=LonoxX&theme=dark&show_icons=true)](https://github.com/LonoxX)
+[![LonoxX's github stats](https://github-readme-stats.vercel.app/api?username=LonoxX&theme=dark&show_icons=true)](https://github.com/LonoxX)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonoxX&layout=compact&theme=dark&show_icons=true)](https://github.com/LonoxX)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LonoxX&layout=compact&theme=dark&show_icons=true)](https://github.com/LonoxX)
 
   <a href="https://github.com/LonoxX/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LonoxX&layout=compact&theme=dark" />
@@ -120,8 +123,6 @@
   <a href="https://www.proxmox.com/de/" target="_blank">
   <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 
-  
-      
 </details>
 <br /><br /><br />
 
@@ -135,14 +136,6 @@
   <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 </details>
 <br /><br /><br />
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 <h3 align="center">
   ⬇⬇ Check my Team below ⬇⬇
@@ -176,5 +169,4 @@
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf) \
 > Made with :heart: <br>
-> V 0.2.4 <br>
-
+> V 0.2.5 <br>
