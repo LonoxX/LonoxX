@@ -13,9 +13,9 @@
 
 ## 📕 My Current Projects:
 
+- <a href="https://bigcityv.de/">Big City:V GTA V Roleplay </a>
 - <a href="https://panda-network.de/">Panda-Network<a>
 - <a href="https://imagicx.de/">ImagicX-Imagehost</a>
-- <a href="https://bigcityv.de/">Big City:V GTA V Roleplay </a>
 
 <details open>
   <summary><b>My Stats:</b></summary>
@@ -137,36 +137,11 @@
 </details>
 <br /><br /><br />
 
-<h3 align="center">
-  ⬇⬇ Check my Team below ⬇⬇
-</h3>
+---
 
-## 🐼 Panda-Network Team
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/LonoxX"><img src="https://avatars3.githubusercontent.com/u/35597628?v=4" width="100px;" alt="LonoxX" /></a><br />
-      <sub><b><a href="https://github.com/LonoxX">LonoxX</b></a></sub><br />Project Leader<br /><a href="https://panda-network.de/">Panda-Network</a>
-    </td>
-    <br>
-    <td align="center">
-      <a href="https://github.com/dev-mb"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="Dev-MB" /><br />
-        <sub><b><a href="https://github.com/dev-mb">Dev-MB</b></a></sub><br />Developer<br /><a  href="https://dev-mb.dev/">Dev-MB</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/matthewrabiega"><img src="https://avatars.githubusercontent.com/u/69539728?v=4" width="100px;" alt="Dev-MB" /><br />
-        <sub><b><a href="https://github.com/matthewrabiega">Matthew</b></a></sub><br />Supporter<br /><a  href="https://matthewrabiega.com">MatthewRabiega.com</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YourLifeRPG"><img src="https://avatars.githubusercontent.com/u/76496942?v=4" width="100px;" alt="Dev-MB" /><br />
-        <sub><b><a href="https://github.com/YourLifeRPG">CHX31</b></a></sub><br />Supporter<br /><a href="https://panda-network.de/">Panda-Network</a>
-    </td>
-  </tr>
-</table>
-<br>
-
-> Webseite: [Panda-Network.de](https://panda-network.de) \
-> Support [Discord-Server](https://discord.gg/z8ScRvf) \
+> ![Discord](https://discord.c99.nl/widget/theme-1/396173519953592320.png)\
+> E-Mail: info@panda-network.de \
+> Webseite: [bigcityv.de](https://bigcityv.de) \
+> Support [Discord-Server](https://bigcityv.de/discord) \
 > Made with :heart: <br>
-> V 0.2.5 <br>
+> V 0.2.6 <br>
