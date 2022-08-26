@@ -7,7 +7,7 @@
 
 - I'm a Backend Web Developer
 - Project Leader at <a href="https://panda-network.de">Panda-Network</a>
-- Age 25
+- Age 26
 - Fun fact: My first line of code was not "Hello World!"
   <br>
 
