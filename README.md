@@ -12,7 +12,6 @@
 
 ## 📕 My Current Projects:
 
-- <a href="https://bigcityv.de/">Big City:V GTA V Roleplay </a>
 - <a href="https://panda-network.de/">Panda-Network<a>
 - <a href="https://imagicx.de/">ImagicX-Imagehost</a>
 
@@ -140,7 +139,7 @@
 
 > ![Discord](https://discord.c99.nl/widget/theme-1/396173519953592320.png)\
 > E-Mail: info@panda-network.de \
-> Webseite: [bigcityv.de](https://bigcityv.de) \
-> Support [Discord-Server](https://bigcityv.de/discord) \
+> Webseite: [bigcityv.de](https://panda-network.de) \
+> Support [Discord-Server](https://pnnet.dev/discord) \
 > Made with :heart: <br>
-> V 0.2.7 <br>
+> V 0.3 <br>
