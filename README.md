@@ -65,6 +65,7 @@
 
   <a href="https://www.w3schools.com/css/" target="_blank">
   <img align="left" alt="CSS3" width="36px" src="https://cdn.panda-network.de/Logos/CSS3.png" /></a>
+  
   <a href="https://www.w3schools.com/js/" target="_blank">
   <img align="left" alt="JS" width="36px" src="https://cdn.panda-network.de/Logos/JS.png" /></a>
 
@@ -137,9 +138,9 @@
 
 ---
 
-> ![Discord](https://discord.c99.nl/widget/theme-1/396173519953592320.png)\
+> ![Discord](https://discord.c99.nl/widget/theme-3/396173519953592320.png)\
 > E-Mail: info@panda-network.de \
-> Webseite: [bigcityv.de](https://panda-network.de) \
+> Webseite: [panda-network.de](https://panda-network.de) \
 > Support [Discord-Server](https://pnnet.dev/discord) \
 > Made with :heart: <br>
 > V 0.3 <br>
