@@ -34,7 +34,7 @@
 [![LonoxX's github stats](https://github-readme-stats.vercel.app/api?username=LonoxX&theme=dark&show_icons=true)](https://github.com/LonoxX)
 
   <a href="https://github.com/LonoxX/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LonoxX&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lonoxx&layout=compact&theme=dark" />
   </a>
 </details>
 <details >
