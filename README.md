@@ -58,7 +58,7 @@
   <img align="left" alt="git" width="36px"  src="https://cdn.panda-network.de/Logos/git.png" /></a>
   <a href="https://github.com/LonoxX/" target="_blank">
   <img align="left" alt="GitHub" width="36px" src="https://cdn.panda-network.de/Logos/github.png" /></a>
-</details>
+</details><br /><br />
 <details >
   <summary>💾<b> Softwares:</b> </summary>
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -92,6 +92,7 @@
   <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 
 </details>
+<br /><br />
 <details >
   <summary>🤖<b> My Server Runing with:</b> </summary>
   <a href="https://www.debian.org/" target="_blank">
@@ -101,7 +102,7 @@
   <a href="https://www.proxmox.com/de/" target="_blank">
   <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 </details>
-<br />
+<br /><br />
 
 ---
 
@@ -110,4 +111,4 @@
 > Webseite: [panda-network.de](https://panda-network.de) \
 > Support [Discord-Server](https://pnnet.dev/discord) \
 > Made with :heart: <br>
-> V 0.4 <br>
+> V 0.4.1 <br>
