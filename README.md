@@ -27,6 +27,7 @@
 
 - <a href="https://panda-network.de/">Panda-Network<a>
 - <a href="https://imagicx.de/">ImagicX-Imagehost</a>
+- <a href="https://github.com/LonoxX/Guardian-Discordbot">Guardian-Discordbot</a>
 
 <details open>
   <summary><b>My Stats:</b></summary>
