@@ -14,6 +14,7 @@
 - Discord: [LonoxX#1337](https://discordapp.com) / [Discord-Server](https://pnnet.dev/discord)
 - Steam: [LonoxX](https://steamcommunity.com/id/LonoxX_/)
 - Battle.net: [LonoxX#2386](https://www.battle.net/)
+- E-Mail: [info@panda-network.de](mailto:info@panda-network.de)
 
 ## Social Media:
 
@@ -27,7 +28,8 @@
 
 - <a href="https://panda-network.de/">Panda-Network<a>
 - <a href="https://imagicx.de/">ImagicX-Imagehost</a>
-- <a href="https://github.com/LonoxX/Guardian-Discordbot">Guardian-Discordbot</a>
+- <a href="https://guardingpaw.xyz">GuardingPaw-Discordbot</a>
+- <a href="https://r6roulette.de/">R6Roulette<a>
 
 <details open>
   <summary><b>My Stats:</b></summary>
@@ -112,4 +114,3 @@
 > Webseite: [panda-network.de](https://panda-network.de) \
 > Support [Discord-Server](https://pnnet.dev/discord) \
 > Made with :heart: <br>
-> V 0.4.1 <br>
