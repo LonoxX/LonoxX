@@ -6,8 +6,17 @@
 ## About me:
 
 - I'm a Backend Web Developer
-- Age 26
+- Age 27
 - Fun fact: My first line of code was not "Hello World!"
+
+
+## My Current Projects:
+- <a href="https://panda-network.de/">Panda-Network<a>
+- <a href="https://imagicx.de/">ImagicX-Imagehost</a>
+- <a href="https://guardingpaw.xyz">GuardingPaw-Discordbot</a>
+- <a href="https://r6roulette.de/">R6Roulette<a>
+
+<a href="https://lonoxx.me/">More Projects<a>
 
 ## Kontakt:
 
@@ -23,14 +32,6 @@
 - Twitter: [LonoxX](https://twitter.com/LonoxX_)
 - YouTube: [LonoxX](https://www.youtube.com/@LonoxX)
 - Twitch: [LonoxX](https://www.twitch.tv/lonoxx_)
-
-## My Current Projects:
-- <a href="https://panda-network.de/">Panda-Network<a>
-- <a href="https://imagicx.de/">ImagicX-Imagehost</a>
-- <a href="https://guardingpaw.xyz">GuardingPaw-Discordbot</a>
-- <a href="https://r6roulette.de/">R6Roulette<a>
-
-<a href="https://lonoxx.me/">More Projects<a>
 
 <details open>
   <summary><b>My Stats:</b></summary>
