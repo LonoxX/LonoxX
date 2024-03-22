@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ich bin LonoxX</h1>
+<h1 align="center">Hi There! I'm Björn Platte (LonoxX)</h1>
 
 [![](https://komarev.com/ghpvc/?username=LonoxX&color=0d1627)](https://pnnet.dev/github)
 ![](https://hit.yhype.me/github/profile?user_id=35597628)
@@ -8,6 +8,7 @@
 - I'm a Backend Web Developer
 - Age 27
 - Fun fact: My first line of code was not "Hello World!"
+- I Love Pizza 🍕
 
 
 ## My Current Projects:
@@ -21,8 +22,6 @@
 ## Kontakt:
 
 - Discord: [LonoxX](https://discordapp.com/users/396173519953592320) / [Discord-Server](https://pnnet.dev/discord)
-- Steam: [LonoxX](https://steamcommunity.com/id/LonoxX_/)
-- Battle.net: [LonoxX#2386](https://www.battle.net/)
 - E-Mail: [info@panda-network.de](mailto:info@panda-network.de)
 
 ## Social Media:
@@ -96,16 +95,6 @@
   <a href="https://www.proxmox.com/de/" target="_blank">
   <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 
-</details>
-<br /><br />
-<details >
-  <summary>🤖<b> My Server Runing with:</b> </summary>
-  <a href="https://www.debian.org/" target="_blank">
-  <img align="left" alt="debian" width="36px" src="https://cdn.panda-network.de/Logos/debian.png" /></a>
-  <a href="https://ubuntu.com/" target="_blank">
-  <img align="left" alt="ubuntu" width="36px" src="https://cdn.panda-network.de/Logos/ubuntu.png" /></a>
-  <a href="https://www.proxmox.com/de/" target="_blank">
-  <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 </details>
 <br /><br />
 
