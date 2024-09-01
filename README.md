@@ -6,7 +6,7 @@
 ## About me:
 
 - I'm a Backend Web Developer
-- Age 27
+- Age 28
 - Fun fact: My first line of code was not "Hello World!"
 - I Love Pizza 🍕
 
@@ -70,28 +70,28 @@
 
   <a href="https://visualstudio.microsoft.com/de/" target="_blank">
   <img align="left" alt="visualstudio" width="36px"src="https://cdn.panda-network.de/Logos/vs.png"/></a>
-  
+
   <a href="https://discord.com/" target="_blank">
   <img align="left" alt="Discord" width="36px" src="https://cdn.panda-network.de/Logos/discord.png"/></a>
-  
+
   <a href="https://www.thunderbird.net" target="_blank">
   <img align="left" alt="thunderbird" width="36px" src="https://cdn.panda-network.de/Logos/thunderbird.png"/></a>
-  
+
   <a href="https://www.mozilla.org/" target="_blank">
   <img align="left" alt="firefox" width="36px" src="https://cdn.panda-network.de/Logos/firefox.png"/></a>
-  
+
   <a href="https://www.google.com/intl/de_de/chrome/" target="_blank">
   <img align="left" alt="chrome" width="36px" src="https://cdn.panda-network.de/Logos/chrome.png"/></a>
-  
-  <a href="https://www.teamspeak.com/" target="_blank"> 
+
+  <a href="https://www.teamspeak.com/" target="_blank">
   <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.panda-network.de/Logos/teamspeak.png"/></a>
-  
+
   <a href="https://www.spotify.com/" target="_blank">
   <img align="left" alt="Spotify" width="36px" src="https://cdn.panda-network.de/Logos/spotify.png"/></a>
-  
+
   <a href="https://pi-hole.net/" target="_blank">
   <img align="left" alt="PI-Hole" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png"/></a>
-  
+
   <a href="https://www.proxmox.com/de/" target="_blank">
   <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
 
