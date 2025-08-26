@@ -6,7 +6,7 @@
 ## About me:
 
 - I'm a Backend Web Developer
-- Age 28
+- Age 29
 - Fun fact: My first line of code was not "Hello World!"
 - I Love Pizza 🍕
 
