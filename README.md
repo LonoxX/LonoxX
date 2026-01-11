@@ -12,96 +12,18 @@
 
 
 ## My Current Projects:
-- <a href="https://panda-network.de/">Panda-Network<a>
-- <a href="https://imagicx.de/">ImagicX-Imagehost</a>
-- <a href="https://guardingpaw.xyz">GuardingPaw-Discordbot</a>
-- <a href="https://r6roulette.de/">R6Roulette<a>
+- [Panda-Network](https://panda-network.de/)
+- [GitHub Issues for Obsidian](https://github.com/LonoxX/obsidian-github-issues)
+- [GuardingPaw-Discordbot](https://guardingpaw.xyz)
+- [ImagicX-Imagehost](https://imagicx.de/)
+- [R6Roulette](https://r6roulette.de/)
 
-<a href="https://lonoxx.me/">More Projects<a>
-
-## Kontakt:
-
-- Discord: [LonoxX](https://discordapp.com/users/396173519953592320) / [Discord-Server](https://pnnet.dev/discord)
-- E-Mail: [info@panda-network.de](mailto:info@panda-network.de)
-
-## Social Media:
-
-- Tiktok: [LonoxX](https://www.tiktok.com/@lonoxx_)
-- Instagram: [LonoxX](https://www.instagram.com/lonoxx/)
-- Twitter: [LonoxX](https://twitter.com/LonoxX_)
-- YouTube: [LonoxX](https://www.youtube.com/@LonoxX)
-- Twitch: [LonoxX](https://www.twitch.tv/lonoxx_)
-
-<details open>
-  <summary><b>My Stats:</b></summary>
-
-[![LonoxX's github stats](https://github-readme-stats.vercel.app/api?username=LonoxX&theme=dark&show_icons=true)](https://github.com/LonoxX)
-
-  <a href="https://github.com/LonoxX/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lonoxx&layout=compact&theme=dark" />
-  </a>
-</details>
-<details >
-  <summary>🛠️<b> Languages and Tools:</b> </summary>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-  <img align="left" alt="HTML5" width="36px" src="https://cdn.panda-network.de/Logos/HTML5.png" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-  <img align="left" alt="CSS3" width="36px" src="https://cdn.panda-network.de/Logos/CSS3.png" /></a>
-
-  <a href="https://www.w3schools.com/js/" target="_blank">
-  <img align="left" alt="JS" width="36px" src="https://cdn.panda-network.de/Logos/JS.png" /></a>
-  <a href="https://www.w3schools.com/php/" target="_blank">
-  <img align="left" alt="PHP" width="36px" src="https://cdn.panda-network.de/Logos/PHP.png" /></a>
-  <a href="https://getbootstrap.com" target="_blank">
-  <img align="left" alt="GetBootstrap" width="36px" src="https://cdn.panda-network.de/Logos/getbootstrap.png" /></a>
-  <a href="https://fontawesome.com" target="_blank">
-  <img align="left" alt="Fontawesome" width="36px" src="https://cdn.panda-network.de/Logos/fontawesome.png" /></a>
-  <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank">
-  <img align="left" alt="C#" width="36px" src="https://cdn.panda-network.de/Logos/CSHARP.png"></a>
-  <a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="git" width="36px"  src="https://cdn.panda-network.de/Logos/git.png" /></a>
-  <a href="https://github.com/LonoxX/" target="_blank">
-  <img align="left" alt="GitHub" width="36px" src="https://cdn.panda-network.de/Logos/github.png" /></a>
-</details><br /><br />
-<details >
-  <summary>💾<b> Softwares:</b> </summary>
-  <a href="https://code.visualstudio.com/" target="_blank">
-  <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.panda-network.de/Logos/vscode.png"/></a>
-
-  <a href="https://visualstudio.microsoft.com/de/" target="_blank">
-  <img align="left" alt="visualstudio" width="36px"src="https://cdn.panda-network.de/Logos/vs.png"/></a>
-
-  <a href="https://discord.com/" target="_blank">
-  <img align="left" alt="Discord" width="36px" src="https://cdn.panda-network.de/Logos/discord.png"/></a>
-
-  <a href="https://www.thunderbird.net" target="_blank">
-  <img align="left" alt="thunderbird" width="36px" src="https://cdn.panda-network.de/Logos/thunderbird.png"/></a>
-
-  <a href="https://www.mozilla.org/" target="_blank">
-  <img align="left" alt="firefox" width="36px" src="https://cdn.panda-network.de/Logos/firefox.png"/></a>
-
-  <a href="https://www.google.com/intl/de_de/chrome/" target="_blank">
-  <img align="left" alt="chrome" width="36px" src="https://cdn.panda-network.de/Logos/chrome.png"/></a>
-
-  <a href="https://www.teamspeak.com/" target="_blank">
-  <img align="left" alt="TeamSpeak" width="36px" src="https://cdn.panda-network.de/Logos/teamspeak.png"/></a>
-
-  <a href="https://www.spotify.com/" target="_blank">
-  <img align="left" alt="Spotify" width="36px" src="https://cdn.panda-network.de/Logos/spotify.png"/></a>
-
-  <a href="https://pi-hole.net/" target="_blank">
-  <img align="left" alt="PI-Hole" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pi-hole_Logo.png"/></a>
-
-  <a href="https://www.proxmox.com/de/" target="_blank">
-  <img align="left" alt="Proxmox" width="46px" src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-840px.png"/></a>
-
-</details>
-<br /><br />
+[More Projects](https://lonoxx.me/)
 
 ---
 
 > ![Discord](https://discord.c99.nl/widget/theme-3/396173519953592320.png)\
-> E-Mail: info@panda-network.de \
+> E-Mail: contact@lonoxx.me \
 > Webseite: [panda-network.de](https://panda-network.de) \
 > Support [Discord-Server](https://pnnet.dev/discord) \
 > Made with :heart: <br>
