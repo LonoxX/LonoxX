@@ -21,8 +21,6 @@
 [More Projects](https://lonoxx.me/)
 
 ---
-
-> ![Discord](https://discord.c99.nl/widget/theme-3/396173519953592320.png)\
 > E-Mail: contact@lonoxx.me \
 > Webseite: [panda-network.de](https://panda-network.de) \
 > Support [Discord-Server](https://pnnet.dev/discord) \
